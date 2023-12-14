@@ -9,5 +9,5 @@
             <input type="text" name="correo_usuario"></textarea>
             <input type="submit" value="Enviar">
         </form>
-        <a href="../../DEWS/inicio_de_sesion_V2/index.php?c=cSesiones&m=paginaAdmin">VOLVER AL MENÚ</a>
+        <a href="index.php?c=cSesiones&m=paginaAdmin">VOLVER AL MENÚ</a>
     </div>
